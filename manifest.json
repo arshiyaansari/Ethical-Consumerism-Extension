@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ethical Taste",
+  "description": "This extension will help users find ethically sourced products from local companies that align with their morals.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "sad.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
